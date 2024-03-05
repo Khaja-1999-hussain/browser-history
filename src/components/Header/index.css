@@ -1,0 +1,30 @@
+.nav-container {
+  background-color: #3367d6;
+  height: 40px;
+  background-size: cover;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.logo {
+  width: 10vw;
+}
+
+.input-container {
+  display: flex;
+  align-items: center;
+}
+
+.search {
+  height: 40px;
+  width: 40px;
+}
+
+.input {
+  height: 30px;
+  width: 25vw;
+  font-family: 'Roboto';
+  color: #475569;
+  background-color: #6697ff;
+}
